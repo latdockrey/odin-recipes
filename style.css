@@ -1,0 +1,44 @@
+.Odin-recipes {
+    display: block;
+    width: auto;
+    height: auto;
+    padding: 18px;
+    margin-bottom: 5px;;
+    text-align: center;
+    background-color: #00e6e6;
+}
+#Recipes {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+.Crockpot-Italian {
+    display: block;
+    width: auto;
+    height: auto;
+    padding: 18px;
+    border-style: solid;
+    margin-bottom: 5px;
+    background-color: #ff5c33;
+}
+
+.Greek-Lemon {
+    display: block;
+    width: auto;
+    height: auto;
+    padding: 18px;
+    border-style: solid;
+    margin-bottom: 5px;
+    background-color: #ff5c33;
+}
+
+.Swedish-meatballs {
+    display: block;
+    width: auto;
+    height: auto;
+    padding: 18px;
+    border-style: solid;
+    background-color: #ff5c33;
+}
